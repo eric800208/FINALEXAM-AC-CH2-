@@ -1,0 +1,5 @@
+#data-category li{
+  list-style-type:none;
+  border:1px solid gray;
+  padding:5px 20px;
+}
